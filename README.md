@@ -1,5 +1,5 @@
 # SC_AMP_QGT
-Includes code used to produce all figures in "Quantitative Group Testing and Pooled Data in the Linear Regime with Sublinear Tests" by Nelvin Tan, Pablo Pascual Coboand Ramji Venkataramanan - add arXiv link.
+Includes code used to produce all figures in "Quantitative Group Testing and Pooled Data in the Linear Regime with Sublinear Tests" by Nelvin Tan, Pablo Pascual Cobo and Ramji Venkataramanan - add arXiv link.
 
 All plots are generated using Python files.
 
